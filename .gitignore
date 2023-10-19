@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/HundirLaFlota/HundirLaFlota/.vs
+/HundirLaFlota/HundirLaFlota/bin/Debug/net6.0
+/HundirLaFlota/HundirLaFlota/obj

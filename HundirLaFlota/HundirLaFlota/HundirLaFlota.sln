@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundirLaFlota", "HundirLaFlota.csproj", "{D5379C79-02DE-40F7-9C14-CE980D3E7138}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{CD3FC0A2-9470-441C-9A29-463AB3D50468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5379C79-02DE-40F7-9C14-CE980D3E7138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5379C79-02DE-40F7-9C14-CE980D3E7138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5379C79-02DE-40F7-9C14-CE980D3E7138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5379C79-02DE-40F7-9C14-CE980D3E7138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BA9187-9D91-4E88-A144-597CC4B817C2}
+	EndGlobalSection
+EndGlobal
