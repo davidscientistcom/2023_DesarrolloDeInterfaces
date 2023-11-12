@@ -12,9 +12,15 @@ namespace App1
             InitializeComponent();
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
+
+        private void saludar_Click(object sender, RoutedEventArgs e)
         {
             textBox.Text = "Hola Caracola!";
+        }
+
+        private void limpiar_Click(object sender, RoutedEventArgs e)
+        {
+            textBox.Text = "";
         }
     }
 }

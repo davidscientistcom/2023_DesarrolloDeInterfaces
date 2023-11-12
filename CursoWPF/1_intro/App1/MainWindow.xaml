@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="button" Content="Saluda!" HorizontalAlignment="Left" Margin="302,217,0,0" VerticalAlignment="Top" Width="121" Click="button_Click"/>
+        <Button x:Name="saludar" Content="Saluda!" HorizontalAlignment="Left" Margin="218,212,0,0" VerticalAlignment="Top" Width="83" Click="saludar_Click" RenderTransformOrigin="0.543,-0.568"/>
+        <Button x:Name="limpiar" Content="Limpiar!" HorizontalAlignment="Left" Margin="430,212,0,0" VerticalAlignment="Top" Width="83" Click="limpiar_Click" />
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="218,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="295" RenderTransformOrigin="1.153,0.3"/>
 
     </Grid>
